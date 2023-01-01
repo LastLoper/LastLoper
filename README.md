@@ -1,6 +1,12 @@
 ### 안녕하세요, Hello, 你好, こんにちは, Como está? 👋!
 
-상상을 현실로 만드는 멋진 일을 iOS네이티브 개발자 `Walter의 Github`에 오신 것을 환영합니다!
+상상을 현실로 만드는 멋진 일을 하는 iOS네이티브 개발자 `WalterCho의 Github`에 오신 것을 환영합니다!
+
+
+
+
+
+***프로그래밍은 상상이다. 임백준***
 
 <!--
 **LastLoper/LastLoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
